@@ -1,5 +1,7 @@
 # `bazel-coverage-report`
 
+**Not maintained: Please look at forks instead!**
+
 [![Build Status](https://travis-ci.org/hchauvin/bazel-coverage-report.svg?branch=master)](https://travis-ci.org/hchauvin/bazel-coverage-report)
 
 `bazel-coverage-report` is a multi-language coverage report generator for
